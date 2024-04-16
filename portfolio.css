@@ -1,0 +1,102 @@
+
+.custom-navbar {
+  background-color: black;
+}
+
+#home-container {
+height: 650px;
+margin-top:50px;
+padding-top: 180px;
+margin-bottom: 200px;
+}
+
+#home-container img {
+  width: 400px;
+  height: 400px;
+}
+
+#skill-container {
+  height: 600px;
+  padding-top: 100px;
+}
+
+.skill-text {
+color: #c5243f;
+margin-top: 30px;
+margin-left: 43%;
+font-size: 50px;
+}
+
+.skill-div {
+border: 2px solid white;
+height: 130px;
+width: 130px;
+margin-left: 100px;
+margin-top: 50px;
+transition: transform 0.4s ease;
+}
+
+.skill-div:hover {
+transform: scale(1.2);
+}
+
+#contact-container {
+  height: 600px;
+}
+
+.contact-div {
+border: 2px solid white;
+width: 90%;
+height: 580px;
+margin-top: 80px;
+}
+
+.contact-text {
+color: white;
+margin-top: 30px;
+margin-left: 10%;
+color: #c5243f;
+}
+
+.first-div {
+border: 2px solid white;
+height: 450px;
+width: 90%;
+margin-left: 80px;
+margin-top: 20px;
+}
+
+.form-div {
+border: 2px solid white;
+height: 400px;
+width: 500px;
+margin-top: 30px;
+margin-left: 60px;
+}
+
+.map-div {
+height: 400px;
+width: 400px;
+margin-top: 30px;
+margin-left: 30px;
+}
+
+.name-class {
+width: 400px;
+height: 50px;
+margin-bottom: 50px;
+}
+
+.message-class {
+width: 400px;
+height: 50px;
+margin-bottom: 50px;
+}
+
+.connect-button {
+color: black;
+background-color: #c5243f;
+width: 300px;
+height: 50px;
+margin-left: 40px;
+}
